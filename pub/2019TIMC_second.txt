@@ -1,0 +1,10 @@
+@article{fan2019second,
+	title        = {Second-order consensus for a class of uncertain multi-agent systems subject to input saturation},
+	author       = {Fan, Ming-Can and \textbf{Wang, M}},
+	year         = 2019,
+	journal      = {Transactions of the Institute of Measurement and Control},
+	publisher    = {SAGE Publications Sage UK: London, England},
+	volume       = 41,
+	number       = 7,
+	pages        = {1957--1964}
+}

@@ -1,0 +1,6 @@
+@article{wu2019generalized,
+	title        = {Generalized n-Dimensional Rigid Registration: Theory and Application},
+	author       = {Wu, Jin and \textbf{Wang, M} and Fourati, Hassen and Liu, Ming and Li, Hui},
+	year         = 2019,
+	journal      = {IEEE Transactions on Signal Processing, submitted}
+}

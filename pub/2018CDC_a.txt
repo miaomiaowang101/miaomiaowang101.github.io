@@ -1,0 +1,7 @@
+@inproceedings{wang2018navigation,
+	title        = {A Globally Exponentially Stable Nonlinear Hybrid Observer for {3D} Inertial Navigation},
+	author       = {\textbf{Wang, M} and Tayebi, Abdelhamid},
+	year         = 2018,
+	booktitle    = {Proc. of the 57th {IEEE} Annual Conf. on Decision and Control {(CDC)}, 1367--1372},
+	pages        = {1367--1372}
+}

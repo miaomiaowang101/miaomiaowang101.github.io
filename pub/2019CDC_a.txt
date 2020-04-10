@@ -1,0 +1,7 @@
+@inproceedings{wang2019new,
+	title        = {A New Hybrid Control Strategy for the Global Attitude Tracking Problem},
+	author       = {\textbf{Wang, M} and Tayebi, Abdelhamid},
+	year         = 2019,
+	booktitle    = {Proc. of the  58th {IEEE} Annual Conf. on Decision and Control {(CDC)}, 7222--7227},
+	pages        = {7222--7227}
+}

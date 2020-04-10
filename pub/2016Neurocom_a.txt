@@ -1,0 +1,9 @@
+@article{zhao2016weighted,
+	title        = {A weighted adaptive-velocity self-organizing model and its high-speed performance},
+	author       = {Zhao, Miaomiao and Su, Housheng and \textbf{Wang, M} and Wang, Lei and Chen, Michael ZQ},
+	year         = 2016,
+	journal      = {Neurocomputing},
+	publisher    = {Elsevier},
+	volume       = 216,
+	pages        = {402--408}
+}
