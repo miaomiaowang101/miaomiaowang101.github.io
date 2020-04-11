@@ -1,9 +1,0 @@
-@article{wang2018hybrid,
-	title        = {Hybrid Pose and Velocity-bias Estimation on {$SE(3)$} Using Inertial and Landmark Measurements},
-	author       = {\textbf{Wang, M} and Tayebi, Abdelhamid},
-	year         = 2019,
-	journal      = {\textbf{IEEE Transactions on Automatic Control}},
-	volume       = 64,
-	number       = 8,
-	pages        = {3399--3406}
-}
