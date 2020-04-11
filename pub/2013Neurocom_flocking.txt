@@ -1,9 +1,0 @@
-@article{wang2013flocking,
-	title        = {Flocking of multiple autonomous agents with preserved network connectivity and heterogeneous nonlinear dynamics},
-	author       = {\textbf{Wang, M} and Su, Housheng and Zhao, Miaomiao and Chen, Michael ZQ and Wang, Hongwei},
-	year         = 2013,
-	journal      = {Neurocomputing},
-	publisher    = {Elsevier},
-	volume       = 115,
-	pages        = {169--177}
-}
