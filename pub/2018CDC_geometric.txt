@@ -1,7 +1,0 @@
-@inproceedings{wang2018geometric,
-	title        = {Geometric Nonlinear Observer Design for SLAM on a {Matrix Lie Group}},
-	author       = {\textbf{Wang, M} and Tayebi, Abdelhamid},
-	year         = 2018,
-	booktitle    = {Proc. of the 57th {IEEE} Annual Conf. on Decision and Control {(CDC)}, 1488--1493},
-	pages        = {1488--1493} 
-}
