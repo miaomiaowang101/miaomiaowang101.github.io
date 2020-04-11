@@ -1,6 +1,0 @@
-@article{wang2020nonlinear,
-	title        = {Nonlinear State Estimation for Inertial Navigation Systems With Intermittent Measurements},
-	author       = {\textbf{Wang, M} and Tayebi, Abdelhamid},
-	year         = 2020,
-	journal      = {\textbf{Automatica}, submitted}
-}
