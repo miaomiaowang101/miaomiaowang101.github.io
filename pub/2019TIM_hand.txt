@@ -1,8 +1,0 @@
-@article{wu2019hand,
-	title        = {Hand-eye calibration: {4D} procrustes analysis approach},
-	author       = {Wu, Jin and Sun, Yuxiang and \textbf{Wang, M} and Liu, Ming},
-	year         = 2019,
-	journal      = {IEEE Transactions on Instrumentation and Measurement, to appear},
-	publisher    = {IEEE},
-	doi          = {10.1109/TIM.2019.2930710}
-}
