@@ -1,8 +1,0 @@
-@article{qiu2020new,
-	title        = {A New Formulation for Hand-Eye Calibrations as Point Set Matching},
-	author       = {Qiu, Shuwei and \textbf{Wang, M} and Kermani, Mehrdad R},
-	year         = 2020,
-	journal      = {IEEE Transactions on Instrumentation and Measurement, to appear},
-	publisher    = {IEEE},
-	doi          = {10.1109/TIM.2020.2967958}
-}
