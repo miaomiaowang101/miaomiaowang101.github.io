@@ -20,6 +20,10 @@ function toggleBibtex(articleid) {
   }
 }
 </script>
+<script src="mathjax-config.js" defer></script>
+<script type="text/javascript" id="MathJax-script" defer
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+</script>
 </head>
 <body>
 <table summary="Table for page layout." id="tlayout">
@@ -46,13 +50,7 @@ Miaomiao Wang, ECE, Western University
 <img src="doc/2020TAC1.jpg" height="200", hspace="10", border="0"> </img> 
 <br> <br>
 <!--
-<p>Motivation: The development of reliable pose (attitude and position) estimation algorithms is instrumental in many applications,
-such as autonomous underwater and ground vehicles, and unmanned aerial vehicles. Unlike the classical GPS-aided observers, vision-aided inertial navigation observers, relying on the
-measurements of the angular velocity, linear acceleration, and some landmark positions (known in the inertial frame). The objective 
-of this research is to provide an overview of the existing
-estimation schemes, as well as some recently developed
-global hybrid observers, for autonomous navigation systems
-relying on IMU and landmark measurements.</p>
+<p>Motivation:  .</p>
 -->
 <p>Related papers:</p>
 <ul>
@@ -102,7 +100,7 @@ relying on IMU and landmark measurements.</p>
 </pre></div>
 
 <li> <p>  <b>Miaomiao Wang</b> and A. Tayebi,"<a href="http://doi.org/10.1109/TAC.2018.2879766">
-    Hybrid pose and velocity-bias estimation on SE(3) using inertial and landmark measurements</a>",  <br>
+    Hybrid pose and velocity-bias estimation on <small>$SE(3)$</small> using inertial and landmark measurements</a>",  <br>
     <b><font color="blue">IEEE Transactions on Automatic Control</font></b>, 64(8), pp. 3399-3406, 2019. 
     <a href="pub/2019TAC_hybrid.pdf"><i class="fa fa-file-pdf-o"> PDF</i></a>
 	<a href="javascript:toggleBibtex('wang2019hybrid')"><i class="fa fa-file"> Bibtex</i></a>	</p>
@@ -120,74 +118,7 @@ relying on IMU and landmark measurements.</p>
 </pre></div>	
 
 
-
-
- <!--
-<li> <p>  <b>Miaomiao Wang</b> and A. Tayebi, "<a href="https://doi.org/10.1109/CDC40024.2019.9029563">
-    Nonlinear observers for stereo-vision-aided inertial navigation</a>",  <br>
-    in Proc. of the 58th IEEE Conference on Decision and Control (CDC), pp. 2516-2521, 2019.
-	<a href="pub/2019CDC_nonlinear.pdf"><i class="fa fa-file-pdf-o"> PDF</i></a>
-	<a href="javascript:toggleBibtex('wang2019nonlinear')"><i class="fa fa-file"> Bibtex</i></a> </p>
-</li>
-<div id="bib_wang2019nonlinear" class="bibtex noshow"><pre>
-@inproceedings{wang2019nonlinear,
-	title        = {Nonlinear observers for stereo-vision-aided inertial navigation},
-	author       = {Wang, Miaomiao and Tayebi, Abdelhamid},
-	year         = 2019,
-	booktitle    = {Proc. of the 58th IEEE Annual Conf. on Decision and Control {(CDC)}},
-	pages        = {2516--2521}
-}
-</pre></div>
-  
-<li> <p> <b>Miaomiao Wang</b> and A. Tayebi, "<a href="https://doi.org/10.1109/CDC.2018.8619064">
-    A globally exponentially stable nonlinear hybrid observer for 3D inertial navigation</a>",  <br>
-    in Proc. of the 57th IEEE Conference on Decision and Control (CDC), pp.  1367- 1372, 2018.  
-    <a href="pub/2018CDC_a.pdf"><i class="fa fa-file-pdf-o"> PDF</i></a> 
-	<a href="javascript:toggleBibtex('wang2018navigation')"><i class="fa fa-file"> Bibtex</i></a> <p>
-</li>
-<div id="bib_wang2018navigation" class="bibtex noshow"><pre>
-@inproceedings{wang2018navigation,
-	title        = {A Globally Exponentially Stable Nonlinear Hybrid Observer for {3D} Inertial Navigation},
-	author       = {Wang, Miaomiao and Tayebi, Abdelhamid},
-	year         = 2018,
-	booktitle    = {Proc. of the 57th IEEE Annual Conf. on Decision and Control {(CDC)}},
-	pages        = {1367--1372}
-}
-</pre></div>
-
-<li> <p>  <b>Miaomiao Wang</b> and A. Tayebi, "<a href="https://doi.org/10.1109/CDC.2018.8619501">
-    Geometric nonlinear observer design for SLAM on a matrix Lie Group</a>",  <br>
-    in Proc. of the 57th IEEE Conference on Decision and Control (CDC), pp. 1488-1493, 2018. 
-    <a href="pub/2018CDC_geometric.pdf"><i class="fa fa-file-pdf-o"> PDF</i></a> 
-	<a href="javascript:toggleBibtex('wang2018geometric')"><i class="fa fa-file"> Bibtex</i></a> </p>
-</li>
-<div id="bib_wang2018geometric" class="bibtex noshow"><pre>
-@inproceedings{wang2018geometric,
-	title        = {Geometric Nonlinear Observer Design for SLAM on a {Matrix Lie Group}},
-	author       = {Wang, Miaomiao and Tayebi, Abdelhamid},
-	year         = 2018,
-	booktitle    = {Proc. of the 57th IEEE Annual Conf. on Decision and Control {(CDC)}},
-	pages        = {1488--1493} 
-}
-</pre></div>
-
-<li> <p>  <b>Miaomiao Wang</b> and A. Tayebi,  "<a href="https://doi.org/10.1109/CDC.2017.8264101">
-    Globally asymptotically stable hybrid observers design on SE(3)</a>",  <br>
-    in Proc. of the 56th IEEE Conference on Decision and Control (CDC), pp. 3033-3038, 2017. 
-    <a href="pub/2017CDC_globally.pdf"><i class="fa fa-file-pdf-o"> PDF</i></a>
-	<a href="javascript:toggleBibtex('wang2017globally')"><i class="fa fa-file"> Bibtex</i></a> </p>
-</li>
-<div id="bib_wang2017globally" class="bibtex noshow"><pre>
-@inproceedings{wang2017globally,
-	title        = {Globally asymptotically stable hybrid observers design on {SE(3)}},
-	author       = {Wang, Miaomiao and Tayebi, Abdelhamid},
-	year         = 2017,
-	booktitle    = {Proc. of the 56th IEEE Annual Conf. on Decision and Control {(CDC)}},
-	pages        = {3033--3038}
-}
-</pre></div>
- -->
-
+ 
 <li> <p>  <b>Miaomiao Wang</b>, "Geometric State Observers for Autonomous Navigation Systems",   <br>
     Ph.D. thesis, Western University, London, ON. Canada, Jan. 2020. 
     <a href="pub/2020UWO_phdthesis_MWang.pdf"><i class="fa fa-file-pdf-o"> PDF</i></a></p> 
@@ -241,7 +172,7 @@ Related papers:
 <ul>
 
 <li> <p> S. Qiu, <b>Miaomiao Wang</b>, and M. Kermani, 
-   "A fast and accurate new algorithm for hand-eye calibration on $SO(3)\times \mathbb{R}^3$",  <br>
+   "A fast and accurate new algorithm for hand-eye calibration on <small>$SO(3)\times \mathbb{R}^3$</small>",  <br>
     Control Engineering Practice, accepted, 2020. </p> 
 </li>
 
