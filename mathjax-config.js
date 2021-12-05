@@ -7,7 +7,6 @@ window.MathJax = {
         },
   svg: {
     fontCache: 'global',
-	scale: 0.92
-	
+	scale: 0.92	
   } 
 };
