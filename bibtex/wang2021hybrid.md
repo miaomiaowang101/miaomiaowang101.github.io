@@ -1,4 +1,4 @@
-@article{wang2021hybrid,
+@article{wang2022hybrid,
 	title        = {Hybrid feedback for global tracking on matrix Lie Groups $SO(3)$ and $SE(3)$},
 	author       = {Wang, Miaomiao and Tayebi, Abdelhamid},
 	year         = 2022,

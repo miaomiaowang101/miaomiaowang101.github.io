@@ -1,4 +1,4 @@
-@article{wang2021nonlinear,
+@article{wang2022nonlinear,
 	title        = {Nonlinear observers design for vision-aided inertial navigation systems},
 	author       = {Wang, Miaomiao, Berkane, Soulaimane and Tayebi, Abdelhamid},
 	year         = 2022,
