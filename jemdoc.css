@@ -26,7 +26,7 @@ body {
 	padding-top: 0.5em;
 	padding-left: 8px;
 	padding-right: 8px;
-	font-size: 1.05em;   /*I changed the fontsize...remove for default*/
+	font-size: 1.05em;   /* I changed the fontsize...remove for default*/
 	width: auto;
 	white-space: nowrap;
     text-align: left;
@@ -42,12 +42,12 @@ body {
 	padding-top: 0.0em;
 	padding-left: 1.0em;
 	padding-right: 1.0em;
-	font-size: 1.2em; /*I changed the fontsize...romove this line to default */
+	font-size: 1.06em; /*I changed the fontsize...romove this line to default */
     border: none;
     background: white;
     text-align: justify;  /* I changed from left to justify*/
     vertical-align: top;
-	/*width: 880px; */  /* remove this line to default or set a fixed width */
+	width: 895px;  /* remove this line to default or set a fixed width */
 }
 
 #layout-menu a {
