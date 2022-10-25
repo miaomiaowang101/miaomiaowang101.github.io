@@ -47,7 +47,7 @@ body {
     background: white;
     text-align: justify;  /* I changed from left to justify*/
     vertical-align: top;
-	width: 930px;  /* remove this line to default or set a fixed width */
+	width: 995px;  /* remove this line to default or set a fixed width */
 }
 
 #layout-menu a {
