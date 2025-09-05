@@ -2,7 +2,7 @@
 
 table#tlayout {
     border: none;
-    border-collapse: separate;
+    border-collapse:  separate; 
     background: white;
 }
 
@@ -48,7 +48,7 @@ body {
     background: white;
     text-align: justify;  /* I changed from left to justify*/
     vertical-align: top;
-	width: 995px;  /* remove this line to default or set a fixed width */
+	width: 1200px;  /* remove this line to default or set a fixed width */
 }
 
 #layout-menu a {
@@ -229,6 +229,8 @@ ol {
 
 li {
 	margin-bottom: 0.6em;  /* change this for the line space of list (important for the list of publications)*/
+	content: counter(item) ".";
+    counter-increment: item -1;
 }
 
 
@@ -365,7 +367,7 @@ table {
 }
  
 table + table {
-    border: 2px solid black;
+    border: none; /*2px solid black;*/
     margin-top: 1px;
 }
 
@@ -519,3 +521,4 @@ table + table {
     max-width: 100%;
   }
 }
+ 
