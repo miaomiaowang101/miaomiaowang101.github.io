@@ -1,0 +1,144 @@
+# jemdoc: menu{MENU}{publications.html}
+~~~
+{}{raw} 
+<!-- add mathjax for math in latex by M. Wang  -->  
+<script src="mathjax-config.js" defer></script>
+<script type="text/javascript" id="MathJax-script" defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
+<!-- <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>  -->
+~~~
+
+= Publications   
+
+# create a table for videos and images using HTML 
+~~~
+{}{raw}  
+<table width="52%" border="1"> 
+<tbody><tr>
+	<!-- <td width="5%"> <video width="310" height="205" controls autoplay  muted>
+	  <source src="images/Video_Master_Thesis_640p.mp4" type="video/mp4">  
+	</video></td>
+	<td width="5%"> <video width="320" height="215" controls autoplay  muted>
+	  <source src="images/VideoHINOCRE_640p.mp4" type="video/mp4">  
+	</video></td> -->
+	<td width="5%"> <video width="360" height="215" controls autoplay  muted>
+	  <source src="images/HVINS_speed.mp4" type="video/mp4"> 
+	</video></td> 
+	<td width="5%"> <video width="360" height="215" controls autoplay  muted>
+	  <source src="images/Hybrid_attitude_estimation.mp4" type="video/mp4"> 
+	</video></td>
+	<td width="5%"> <video width="360" height="215" controls autoplay  muted>
+	  <source src="images/Vision_Hover.mp4" type="video/mp4"> 
+	</video></td>
+</tr> 
+<tr> 
+	<td width="5%"> <video width="360" height="215" controls autoplay  muted>
+	  <source src="images/RL_Obstacle_Avoidance.mp4" type="video/mp4"> 
+	</video></td>
+	<td width="5%"> <video width="360" height="215" controls autoplay  muted>
+	  <source src="images/Formation_v1_480p.mp4" type="video/mp4"> 
+	</video></td>
+	<td width="5%"> <video width="360" height="215" controls autoplay  muted>
+	  <source src="images/Cooperative_transportation_480p.mp4" type="video/mp4"> 
+	</video></td>
+</tr> 
+</tbody></table> 
+~~~ 
+
+
+#Please visit my [https://scholar.google.com/citations?user=6CBcXH8AAAAJ&hl=en Google Scholar] and [https://www.researchgate.net/profile/Miaomiao_Wang2 ResearchGate] for more information.
+#=== Preprints and Submissions
+== Selected Journal Articles
+. F. Lin, *M. Wang*, H. Su, Z, Zeng and A. Tayebi, [https://arxiv.org/abs/2611.12851``Distributed Global Pose Synchronization for Heterogeneous Multiple Rigid Body Systems on SE(3)''], 
+	 \<font color=\"Gray\"\>*Automatica*\</font\>, 69(8), submitted, 2026. [https://arxiv.org/abs/2611.12851 \[arXiv\]]  	  
+## 
+. *M. Wang* and A. Tayebi, [https://doi.org/10.1109/TAC.2024.3372463 ``Hybrid feedback for affine nonlinear systems with application to global obstacle avoidance''], 
+	 \<font color=\"Gray\"\>*IEEE Transactions on Automatic Control*\</font\>, 69(8), pp. 5546–5553, 2024. [https://arxiv.org/abs/2305.04104 \[arXiv\]] [bibtex/wang2024hybrid.md \[Bibtex\]]	  
+## 
+. *M. Wang* and A. Tayebi, [https://doi.org/10.1109/TAC.2023.3346799 ``Nonlinear attitude estimation using intermittent and multirate vector measurements''], 
+	 \<font color=\"Gray\"\>*IEEE Transactions on Automatic Control*\</font\>, 69(8), pp. 5231–5245, 2024. (Full Paper)[https://doi.org/10.48550/arXiv.2210.11510 \[arXiv\]] [https://miaomiaowang101.github.io/images/Hybrid_attitude_estimation.mp4  \[Video\]]  [bibtex/wang2024nonlinear.md \[Bibtex\]]	 
+##
+. J. Wu, *M. Wang*, H. Fourati, H. Li, Y. Zhu, C. Zhang, Y. Jiang, X. Hu, and M. Liu, [https://doi.org/10.1109/TCYB.2022.3168938 ``Generalized n-dimensional rigid registration: theory and applications''], 
+	IEEE Transactions on Cybernetics, 53(2), pp. 927–940, 2023. [bibtex/wu2021generalized.md \[Bibtex\]]
+##	
+. *M. Wang* and A. Tayebi, [https://doi.org/10.1109/TAC.2021.3097704 ``Hybrid feedback for global tracking on matrix Lie Groups \$SO(3)\$ and \$SE(3)\$''], 
+	\<font color=\"Gray\"\>*IEEE Transactions on Automatic Control*\</font\>, 67(6), pp.2930-2945, 2022. (Full Paper)
+	[https://arxiv.org/abs/2012.12470 \[arXiv\]]  [bibtex/wang2021hybrid.md \[Bibtex\]]	
+##
+. *M. Wang*, S. Berkane, and A. Tayebi, [https://doi.org/10.1109/TAC.2021.3086459 	 ``Nonlinear observers design for vision-aided inertial navigation systems''], 
+	\<font color=\"Gray\"\>*IEEE Transactions on Automatic Control*\</font\>, 67(4), pp. 1853-1868, 2022.  (Full Paper)
+	[https://arxiv.org/abs/2102.05111 \[arXiv\]]   [bibtex/wang2021nonlinear.md \[Bibtex\]]	
+##	
+. J. Wu, *M. Wang*, Y. Jiang, B. Yi, R. Fan, and M. Liu, [https://doi.org/10.1109/TMECH.2021.3103995 ``Simultaneous hand-eye\/robot-world\/camera-IMU calibration''], 
+	IEEE/ASME Transactions on Mechatronics, 27(4), pp.2278-2289, 2022. 	
+	[https://ram-lab.com/papers/2022/Simultaneous_HandEye_RobotWorld_CameraIMU_Calibration.pdf \[PDF\]] [bibtex/wu2021simultaneous.md \[Bibtex\]]	
+##	
+. S. Qiu, *M. Wang*, and M. Kermani, [https://doi.org/10.1016/j.conengprac.2021.104726 ``A fast and accurate new algorithm for hand-eye calibration on \$SO(3) \\times \\mathbb{R}\^3\$''], 
+	Control Engineering Practice, 109, 104726, 2021. 
+	[https://www.researchgate.net/publication/348603110_A_fast_and_accurate_new_algorithm_for_hand-eye_calibration_on_SO3R3 \[PDF\]] 
+	[bibtex/qiu2020fast.md \[Bibtex\]]
+##
+. *M. Wang* and A. Tayebi, [https://doi.org/10.1109/TAC.2020.2972213 ``Hybrid nonlinear observers for inertial navigation using landmark measurements''], 
+	\<font color=\"Gray\"\>*IEEE Transactions on Automatic Control*\</font\>, 65(12), pp. 5173-5188, 2020.  (Full Paper)
+	[https://arxiv.org/abs/1906.04689 \[arXiv\]]  [bibtex/wang2020hybrid.md \[Bibtex\]]
+##	
+. *M. Wang* and A. Tayebi, [https://doi.org/10.1016/j.automatica.2020.109244 ``Nonlinear state estimation for inertial navigation systems with intermittent measurements''], 
+	\<font color=\"Gray\"\>*Automatica*\</font\>, 122, 109244, 2020. (Regular Paper)
+	[https://arxiv.org/abs/2005.03765 \[arXiv\]]  [bibtex/wang2020nonlinear.md \[Bibtex\]]
+##	
+. S. Qiu, *M. Wang*, and M. Kermani, [https://doi.org/10.1109/TIM.2020.2967958 ``A new formulation for hand-eye calibration as point set matching''], 
+	IEEE Transactions on Instrumentation and Measurement, 69(9), pp. 6490-6498, 2020. 	[https://www.researchgate.net/publication/338780200_A_New_Formulation_for_Hand-Eye_Calibrations_as_Point_Set_Matching \[PDF\]]  [bibtex/qiu2020new.md \[Bibtex\]]
+##	
+. J. Wu, Y. Sun, *M. Wang*, and M. Liu, [https://doi.org/10.1109/TIM.2019.2930710 ``Hand-eye calibration: 4-D procrustes analysis approach''], 
+	IEEE Transactions on Instrumentation and Measurement, 69(6), pp. 2966-2981, 2020. [bibtex/wu2020hand.md \[Bibtex\]]
+##	
+. *M. Wang* and A. Tayebi, [http://doi.org/10.1109/TAC.2018.2879766 ``Hybrid pose and velocity-bias estimation on \$SE(3)\$  using inertial and landmark measurements''], 
+	\<font color=\"Gray\"\>*IEEE Transactions on Automatic Control*\</font\>, 64(8), pp. 3399-3406, 2019. 	[https://www.researchgate.net/publication/328698379_Hybrid_Pose_and_Velocity-Bias_Estimation_on_SE3_Using_Inertial_and_Landmark_Measurements \[PDF\]] 
+	[https://arxiv.org/abs/1805.00897 \[arXiv\]]  [bibtex/wang2019hybrid.md \[Bibtex\]]
+##	
+	
+	 
+==  Selected Conference Proceedings   
+. Q. Guo, *M. Wang* and A. Tayebi, ``Hybrid adaptive feedback for global attitude tracking on SO(3)'', the 2027 American Control Conference, submitted, 2026.  
+. Q. Yang, *M. Wang* and A. Tayebi, ``MPC-based trajectory tracking for a quadrotor UAV with uniform semi-global asymptotic stability guarantees'', 
+	in Proc. of the 65th IEEE Conference on Decision and Control, to appear, 2026. 
+	[https://arxiv.org/abs/2109.10872 \[arXiv\]]  [bibtex/wang2021cdc_nonlinear.md \[Bibtex\]]
+. F. Lin, *M. Wang*, H. Su and A. Tayebi, ``Distributed hybrid feedback for global pose synchronization of multiple rigid Body systems on SE(3)'', 
+	in Proc. of the 23rd IFAC World Congress Busan, pp. 9755-9760, 2026. 
+	[https://arxiv.org/abs/2109.10872 \[arXiv\]]  [bibtex/wang2021cdc_nonlinear.md \[Bibtex\]]
+. *M. Wang* and A. Tayebi, [http://doi.org/10.23919/ACC63710.2025.11107782 ``Pose, velocity and landmark position estimation using IMU and bearing measurements''], 
+	in Proc. of American Control Conference, pp. 1192-1197, 2025.
+	[https://arxiv.org/abs/2109.10872 \[arXiv\]]  [bibtex/wang2021cdc_nonlinear.md \[Bibtex\]]
+. *M. Wang* and A. Tayebi, [http://doi.org/10.1109/CDC45484.2021.9683280 ``Nonlinear attitude estimation using intermittent linear velocity and vector measurements''], 
+	in Proc. of the 60th IEEE Conference on Decision and Control, pp. 4707-4712, 2021. 
+	[https://arxiv.org/abs/2109.10872 \[arXiv\]]  [bibtex/wang2021cdc_nonlinear.md \[Bibtex\]]
+. *M. Wang* and A. Tayebi, [https://doi.org/10.1109/CDC42340.2020.9304269 ``Observers design for inertial navigation systems: a brief tutorial''], 
+	in Proc. of the 59th IEEE Conference on Decision and Control, pp. 1320-1327, 2020. 
+	[https://arxiv.org/abs/2009.08569 \[arXiv\]]  [bibtex/wang2020cdc_observers.md \[Bibtex\]]
+. *M. Wang* and A. Tayebi, [https://doi.org/10.1109/CDC40024.2019.9029469 ``A new hybrid control strategy for the global attitude tracking problem''], 
+	in Proc. of the 58th IEEE Conference on Decision and Control, pp. 7222-7227, 2019. [https://www.researchgate.net/publication/337772756_A_New_Hybrid_Control_Strategy_for_the_Global_Attitude_Tracking_Problem \[PDF\]]  
+	[bibtex/wang2019cdc_new.md \[Bibtex\]]
+. *M. Wang* and A. Tayebi, [https://doi.org/10.1109/CDC40024.2019.9029563 ``Nonlinear observers for stereo-vision-aided inertial navigation''], 
+	in Proc. of the 58th IEEE Conference on Decision and Control, pp. 2516-2521, 2019. 	[https://www.researchgate.net/publication/327974580_A_Globally_Exponentially_Stable_Nonlinear_Hybrid_Observer_for_3D_Inertial_Navigation \[PDF\]] 
+	[bibtex/wang2019cdc_nonlinear.md \[Bibtex\]]
+. *M. Wang* and A. Tayebi, [https://doi.org/10.1109/CDC.2018.8619064 ``A globally exponentially stable nonlinear hybrid observer for 3D inertial navigation''], 
+	in Proc. of the 57th IEEE Conference on Decision and Control, pp. 1367- 1372, 2018. 
+	[https://www.researchgate.net/publication/327974580_A_Globally_Exponentially_Stable_Nonlinear_Hybrid_Observer_for_3D_Inertial_Navigation \[PDF\]]
+	[bibtex/wang2018cdc_globally.md \[Bibtex\]]
+. *M. Wang* and A. Tayebi, [https://doi.org/10.1109/CDC.2018.8619501 ``Geometric nonlinear observer design for SLAM on a matrix Lie Group''], 
+	in Proc. of the 57th IEEE Conference on Decision and Control, pp. 1488-1493, 2018. 	[https://www.researchgate.net/publication/329325499_Geometric_Nonlinear_Observer_Design_for_SLAM_on_a_Matrix_Lie_Group \[PDF\]] 
+	[bibtex/wang2018cdc_geometric.md \[Bibtex\]]
+. *M. Wang* and A. Tayebi, [https://doi.org/10.1109/CDC.2017.8264101 ``Globally asymptotically stable hybrid observers design on \$SE(3)\$''], 
+	in Proc. of the 56th IEEE Conference on Decision and Control, pp. 3033-3038, 2017. 	[https://www.researchgate.net/publication/321012704_Globally_Asymptotically_Stable_Hybrid_Observers_Design_on_SE3 \[PDF\]] 
+	[bibtex/wang2017cdc_globally.md \[Bibtex\]]
+
+== Dissertations
+. *Miaomiao Wang*, ``Geometric State Observers for Autonomous Navigation Systems'', 
+	Ph.D. thesis, Western University, London, ON. Canada, Jan. 2020. 
+	[doc/ThesisPhD_MWang.pdf \[PDF\]] 
+	[https://miaomiaowang101.github.io/images/VideoHINOCRE_576p.mp4 \[Video\]]
+. *Miaomiao Wang*, ``Attitude Control of a Quadrotor UAV: Experimental Results'', 
+	M.Sc. thesis, Lakehead University, Thunder Bay, ON. Canada, Dec. 2015. 
+	[doc/ThesisMSc_MWang.pdf \[PDF\]] 
+	[https://miaomiaowang101.github.io/images/Video_Master_Thesis_720p.mp4 \[Video\]]
+
+ 
